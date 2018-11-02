@@ -1,6 +1,6 @@
 .nav-main > ul, .nav-sub ul { margin: 0; padding: 0; list-style-type: none; }
 
-body, html { margin: 0; font: 1em "Verdana", sans-serif; background-image: url("/figures/lisboa.jpg"); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; }
+body, html { margin: 1; font: 1em "Verdana", sans-serif; background-image: url("/figures/lisboa.jpg"); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; }
 
 .title-style { text-align: center; }
 
