@@ -1,11 +1,13 @@
 .nav-main > ul, .nav-sub ul { margin: 0; padding: 0; list-style-type: none; }
 
-body, html { margin: 0; font: 1em "Verdana", sans-serif; min-width: 800px; }
+body, html { margin: 0; font: 1em "Verdana", sans-serif; background-image: url("/figures/lisboa.jpg"); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; }
+
+.title-style { text-align: center; }
 
 .content { padding: 30px; }
 
 .nav-main { width: 1200px; background-color: #333; height: 70px; color: #fff; box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
-.nav-main .logo { float: left; height: 40px; padding: 15px 30px; font-size: 1em; line-height: 40px; }
+.nav-main .logo { float: left; height: 40px; padding: 15px 30px; font-size: 1.5em; line-height: 40px; }
 .nav-main > ul { float: left; }
 .nav-main > ul > li { float: left; }
 
