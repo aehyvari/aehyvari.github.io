@@ -1,4 +1,4 @@
-.*.swp
+*.swp
 Gemfile.lock
 howto-serve
 _site

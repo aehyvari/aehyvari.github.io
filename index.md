@@ -13,7 +13,7 @@ condizioni
 
 Appartamento al terzo piano ideale per una piccola famiglia o studenti
 in un palazzo recentemente rinnovato.  Finestre in tre direzioni, cucina
-luminosa, stanza letto, un ampio salotto, un balconcino, e bagno con la
+luminosa, stanza da letto, un ampio salotto, un balconcino, e bagno con la
 finestra. Incluso posteggio coperto. L'appartamento si trova a Lugano,
 Molino Nuovo, 10 minuti dalla USI (Università della Svizzera italiana).
 Appartamento è ammobiliato, e l'affitto include riscaldamento e acqua. 
