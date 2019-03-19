@@ -1,0 +1,6 @@
+- name: Annuncio
+  link: index.html
+- name: Foto
+  link: pictures.html
+- name: Piano
+  link: piano.html

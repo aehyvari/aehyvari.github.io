@@ -1,0 +1,67 @@
+{% include head.html %}
+
+{% assign spt = "no" %}
+{% assign it = "no" %}
+{% assign uct = "no" %}
+{% assign ct = "no" %}
+
+{% for logic in page.logics %}
+    {% for track in logic.tracks %}
+        {% if track == "Single Problem Track" %} {% assign spt = "yes" %} {% endif %}
+        {% if track == "Incremental Track" %} {% assign it = "yes" %} {% endif %}
+        {% if track == "Unsat Core Track" %} {% assign uct = "yes" %} {% endif %}
+        {% if track == "Challenge Track" %} {% assign ct = "yes" %} {% endif %}
+    {% endfor %}
+{% endfor %}
+
+<h2>{{ page.name }} </h2>
+<table>
+  <tr>
+      <td>Single Problem Track</td>
+      <td>{{ spt }}</td>
+  </tr>
+  <tr>
+      <td>Incremental Track</td>
+      <td>{{ it }}</td>
+  </tr>
+  <tr>
+      <td>Unsat-Core Track</td>
+      <td>{{ uct }}</td>
+  </tr>
+  <tr>
+      <td>Challenge Track</td>
+      <td>{{ ct }}</td>
+  </tr>
+  <tr>
+      <td>Preliminary ID</td>
+      <td>{{ page.preliminaryID }}</td>
+  </tr>
+  <tr>
+      <td>Final ID</td>
+      <td>{{ page.finalID }}</td>
+  </tr>
+  <tr>
+      <td>Seed</td>
+      <td>{{ page.seed }}</td>
+  </tr>
+  <tr>
+      <td>System Description</td>
+      <td><a href="{{ page.sysDescUrl }}">{{
+              page.sysDescName }}</a></td>
+  </tr>
+  <tr>
+      <td>Solver Homepage</td>
+      <td><a href="{{ page.solverHomePage }}">{{
+              page.solverHomePage }}</a></td>
+  </tr>
+  <tr>
+      <td>Contact</td>
+      <td>{{ page.contactName }} <a href="mailto:{{
+      page.contactEmail }}">({{ page.contactEmail }})</a>
+      </td>
+  </tr>
+</table>
+<h2>Notes</h2>
+{{ content }}
+{% include tail.html %}
+

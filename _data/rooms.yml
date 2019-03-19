@@ -1,0 +1,36 @@
+- name: Sala
+  img:
+      - img/sala1.jpeg
+      - img/sala2.jpeg
+      - img/sala3.jpeg
+      - img/sala4.jpeg
+      - img/sala5.jpeg
+      - img/sala6.jpeg
+
+- name: Stanza
+  img:
+      - img/stanza1.jpeg
+      - img/stanza2.jpeg
+      - img/stanza3.jpeg
+      - img/stanza4.jpeg
+      - img/stanza5.jpeg
+
+- name: Corridoio
+  img:
+      - img/corridoio1.jpeg
+      - img/corridoio2.jpeg
+      - img/corridoio3.jpeg
+      - img/corridoio4.jpeg
+
+- name: Cucina
+  img:
+      - img/cucina1.jpeg
+      - img/cucina2.jpeg
+      - img/cucina1.jpeg
+      - img/cucina2.jpeg
+
+- name: Bagno
+  img:
+      - img/bagno1.jpeg
+      - img/bagno2.jpeg
+
