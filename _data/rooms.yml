@@ -26,8 +26,6 @@
   img:
       - img/cucina1.jpeg
       - img/cucina2.jpeg
-      - img/cucina1.jpeg
-      - img/cucina2.jpeg
 
 - name: Bagno
   img:
