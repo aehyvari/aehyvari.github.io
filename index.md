@@ -6,7 +6,7 @@ Via Trevano 39, Lugano
 
 ### Affitto
 
-1083/mese per un anno, o 1300/mese per meno di un anno.  Vedi sotto le
+1000/mese per un anno, o 1200/mese per meno di un anno.  Vedi sotto le
 condizioni
 
 ### Descrizione
@@ -30,7 +30,7 @@ Via Trevano 39, Lugano
 
 ### Rent
 
-1083/month for a one-year contract, or 1300/month for shorter contract.
+1000/month for a one-year contract, or 1200/month for shorter contract.
 See the condition detail below
 
 ### Description
@@ -43,7 +43,7 @@ Lugano, Molino Nuovo, 10 minutes walk from USI (University of Lugano).
 The apartment is furnished, and the rent includes heating and water.
 
 The rent is paid only for 10 months / year, and the monthly rate for a
-full year contract is on average CHF 1083. The apartment is free
+full year contract is on average CHF 1000. The apartment is free
 starting March 18, and the first rent is to be paid on May 1st.
 
 ### News
